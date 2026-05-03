@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**bittensorrider/bittensorrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Full-Stack Architect | SWE | Trust Dev | Bittensor</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Hi 👋 I'm William from Hanoi, Vietnam.</p>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bittensorrider.bittensorrider&"  />
+</div>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+  🏆👨‍💻  Senior Full-Stack Engineer<br>
+  🚀⚙️  Build Scalable Systems<br>
+  🎁👍  Ship Real Products<br>
+  🎯🎲  Turn Complexity Into Elegance<br>
+  💬🤝  Strong Async Communication<br>
+  🌱💼  Startup Experiences With Clients<br>
+  📡⏰  US Timezone Friendly<br>
+  🌐🔭  Remote Contractor<br>
+  🧠💎  Bittensor Rider
+</p>
+
+###
