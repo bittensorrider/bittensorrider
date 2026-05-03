@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Hi 👋 I'm William from Hanoi, Vietnam 🇻🇳 </p>
+<p align="left">Hi 👋 I'm William from Hanoi, Vietnam 🇻🇳</p>
 
 ###
 
@@ -18,15 +18,15 @@
 ###
 
 <p align="left">
-  🏆👨‍💻  Senior Full-Stack Engineer<br>
-  🚀⚙️  Build Scalable Systems<br>
-  🎁👍  Ship Real Products<br>
-  🎯🎲  Turn Complexity Into Elegance<br>
-  💬🤝  Strong Async Communication<br>
-  🌱💼  Startup Experiences With Clients<br>
-  ⏰🇺🇸  US Timezone Friendly<br>
-  🌐📡  Remote Contractor<br>
-  🧠📊  Bittensor Rider
+  🏆 Senior Full-Stack Engineer 👨‍💻<br>
+  🚀 Build Scalable Systems ⚙️<br>
+  🎁 Ship Real Products 👍<br>
+  🎯 Turn Complexity Into Elegance 🎲<br>
+  💬 Strong Async Communication 🤝<br>
+  🌱 Startup Experiences With Clients 💼<br>
+  🇺🇸 US Timezone Friendly ⏰<br>
+  🌐 Remote Contractor 📡<br>
+  🧠 Bittensor Rider 💎
 </p>
 
 ###
