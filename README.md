@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Hi 👋 I'm William from Hanoi, Vietnam 🇻🇳</p>
+<p align="left">Hi 👋 I'm William from Ho Chi Minh City, Vietnam 🇻🇳</p>
 
 ###
 
@@ -26,7 +26,7 @@
   🌱 Startup Experiences With Clients 💼<br>
   🇺🇸 US Timezone Friendly ⏰<br>
   🌐 Remote Contractor 📡<br>
-  🧠 Bittensor Rider 💎
+  🧠 Bittensor Rider 🚴‍♀️
 </p>
 
 ###
