@@ -1,5 +1,5 @@
 
-<h1 align="left">Full-Stack Architect | SWE | Trust Dev | Bittensor</h1>
+<h1 align="left">Full-Stack Architect | SWE | Trust Dev | Bittensor Rider</h1>
 
 ###
 
