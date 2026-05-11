@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Hi 👋 I'm William from Petaling Jaya, Malaysia 🇲🇾</p>
+<p align="left">Hi 👋 I'm William from Malaysia 🇲🇾</p>
 
 ###
 
