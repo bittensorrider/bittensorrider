@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Hi 👋 I'm William from Dublin, Ireland 🇮🇪</p>
+<!-- <p align="left">Hi 👋 I'm William from Dublin, Ireland 🇮🇪</p> -->
 
 ###
 
