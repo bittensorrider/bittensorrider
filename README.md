@@ -1,9 +1,9 @@
 
-<h1 align="left">Full-Stack Architect | SWE | Trust Dev | Bittensor Rider</h1>
+<h1 align="left">Full-Stack Architect | SWE | Trust Dev | OpenSource Miner</h1>
 
 ###
 
-<p align="left">Hi 👋 I'm William from Malaysia 🇲🇾</p>
+<p align="left">Hi 👋 I'm William from Dublin, Ireland 🇮🇪</p>
 
 ###
 
@@ -24,9 +24,8 @@
   🎯 Turn Complexity Into Elegance 🎲<br>
   💬 Strong Async Communication 🤝<br>
   🌱 Startup Experiences With Clients 💼<br>
-  🇺🇸 US Timezone Friendly ⏰<br>
   🌐 Remote Contractor 📡<br>
-  🧠 Bittensor Rider 🚴‍♀️
+  🧠 OpenSource Miner 🏃‍♂️
 </p>
 
 ###
